@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Astha Rathi",
+      "course": "BCCA",
+      "mobile": "9833273653",
+      "gmail": "astharathi@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Daneshwar Kumar",
+      "course": "BCCA",
+      "mobile": "9833273653",
+      "gmail": "Deepak@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "bbbb",
+      "course": "nnnnn",
+      "mobile": "hhgggg",
+      "gmail": "jjjkkkkkk",
+      "id": 8
+    },
+    {
+      "name": "Deepak Kumar",
+      "course": "BCCA",
+      "mobile": "9877635426",
+      "gmail": "Deepak@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "Aman Mishra",
+      "course": "BCCA",
+      "mobile": "8765243576",
+      "gmail": "amanmishra@gmail.com",
+      "id": 10
+    }
+  ]
+}
